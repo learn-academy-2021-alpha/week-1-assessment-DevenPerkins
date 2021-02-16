@@ -42,7 +42,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
  The driver is the one who is typing the pseudocode and code into the editor and is calling it in the terminal. The navigator is the one who is reading the challenge over and is directing the driver on what to type.
 
-  Researched answer: Constant and clear communication is key for pair programming. The navigator must be clear in their instruction to the driver when reading the challenge and on what they should be typing. It's just as equally important that the driver can take clear communication and put that into the editor as they are the ones with their hands on the keyboard
+  Researched answer: Constant and clear communication is key for pair programming. The navigator must be clear in their instruction to the driver when reading the challenge and on what they should be typing. It's just as equally important that the driver can take clear communication and put that into the editor as they are the ones with their hands on the keyboard.
 
 
 

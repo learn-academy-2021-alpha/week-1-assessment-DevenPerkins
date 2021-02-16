@@ -15,7 +15,7 @@
 var temp1 = 85
 var temp2 = 350
 var temp3 = 212
-var temp4 = "pineapple"
+var temp4 = "pineapple'
 
 //Create a function called isBoiling
 //takes in one argument (temp)
