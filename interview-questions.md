@@ -69,14 +69,14 @@ Then, research the question to expand on your answer. Even if you feel you have 
   Your answer: The introduction and explanation of pseudocoding. It had been instrumental in helping me organize my thoughts and also helps provide clear communication to someone who is reading my code for the first time. 
 
 
-
+//Please accept my apiologies as I completely looked over this section and did not complete ahead of time. This will not happen again.
 ## Looking Ahead: Terms for Next Week
 
 Research and define the following terms to the best of your ability.
 
-- Jest
-- Test Driven Development
-- Classes
-- React
-- React State
-- CRUD
+- Jest - Jest is a testing framework that checks the codebase to make sure it's correct. This appears to be the programming worlds version of a spell checker on the code level.
+- Test Driven Development - Its a method of development that sets up end goal of the code to essentially fail and then correct the fail to make the code work.
+- Classes - Classed are essentially templates for code. Classes will help you encapsulate data so that you may call on it in other work.
+- React - Is a open-source library that is used for building user interfaces and UI components. The library is maintained by Facebook and individuals companies and developers. It can be utilized on desktop and mobile applications.
+- React State - From what I understand a state will store items and properties in the and code that can be executed on a broad scale.
+- CRUD - is an acronym for Create , Read , Update , Delete. It's great for running programs with data that does not need to be stored and or it would be safer for the information not to be stored.
